@@ -24,3 +24,18 @@ This project was built to practice the use of the **Random class**, arrays, and 
 1. Clone this repository:
    ```bash
    git clone https://github.com/LiebschC/Lotto-Generator.git
+
+   ****🛠️ Future Improvements-****
+- Allow user to choose how many numbers to generate
+- Add input validation and error handling
+- Save generated numbers to a file
+- Create a GUI version with Windows Forms or WPF
+- Add unit tests for number generation logic
+
+  
+****📚 What I Learned****
+- Using the Random class in C#
+- Ensuring uniqueness with arrays and Array.Exists
+- Structuring a console application with .sln and .csproj
+- Writing clean, commented code
+
